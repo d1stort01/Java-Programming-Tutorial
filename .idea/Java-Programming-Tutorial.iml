@@ -4,9 +4,14 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/HelloWorld/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Triangle/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Calculator/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-1/Calculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-1/Prime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-1/Triangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-2/Account/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-2/Birth/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-2/Circle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-2/Complex/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-2/Pizza/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
