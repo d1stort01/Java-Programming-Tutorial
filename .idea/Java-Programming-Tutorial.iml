@@ -6,12 +6,18 @@
       <sourceFolder url="file://$MODULE_DIR$/HelloWorld/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-1/Calculator/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-1/Prime/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Exp-1/Triangle/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-2/Account/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-2/Birth/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-2/Circle/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-2/Complex/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exp-2/Pizza/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/Operation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/Shape/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/WordStats/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/MergeArrays/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/DistinctWithArray/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/DistinctWithSet/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exp-3/NumEngTranslator/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
